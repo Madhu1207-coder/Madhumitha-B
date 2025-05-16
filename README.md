@@ -19,7 +19,7 @@
     </p>
   </div>
   <div style="text-align: center; margin-top: 20px;">
-  <img src="https://media.giphy.com/media/3o7aD4wYk3tBBq3kGG/giphy.gif" alt="coding animation" width="200" />
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="coding animation" width="200" />
 </div>
 
 

@@ -18,5 +18,9 @@
       📫 Reach me at <a href="mailto:Madhumithab1207@gmail.com" style="color:#2E7D32; text-decoration: none;">Madhumithab1207@gmail.com</a>
     </p>
   </div>
+  <div style="text-align: center; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/3o7aD4wYk3tBBq3kGG/giphy.gif" alt="coding animation" width="200" />
+</div>
+
 
 </div>

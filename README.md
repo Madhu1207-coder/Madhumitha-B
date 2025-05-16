@@ -1,57 +1,93 @@
 # Madhumitha-B
-<h1 align="center">Hi 👋, I'm Madhumitha B</h1>
-<h3 align="center">A passionate frontend & IoT developer from India</h3>
+# 👋 Hi, I'm Madhumitha B
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumithab&label=Profile%20views&color=0e75b6&style=flat" alt="madhumithab" /> </p>
-
-- 🔭 I’m currently working on [Air Quality Monitoring using IoT](https://github.com/MadhumithaB/air-quality-monitoring-iot)
-
-- 👯 I’m looking to collaborate on [Smart Home Automation Project](https://github.com/MadhumithaB/smart-home-iot)
-
-- 🤝 I’m looking for help with [Real-Time IoT Dashboard](https://github.com/MadhumithaB/iot-dashboard-mqtt)
-
-- 🌱 I’m currently learning **ESP32, Blynk, Firebase, React, and Full-Stack IoT integration**
-
-- 💬 Ask me about **React, GSAP, IoT Projects, and Power BI**
-
-- 📫 How to reach me **Madhumithab1207@gmail.com**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-
-- 📝 I regularly write articles on [My Blog](https://medium.com/@madhumithab)
-
-- 📄 Know about my experiences [View Resume](https://drive.google.com/your-resume-link)
-
-- ⚡ Fun fact **I once built a sensor module using a toothpaste box and it worked! 😂**
+## 🎯 A Passionate Frontend Developer from India
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🔭 I’m Currently Working On
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-</p>
+- **Advanced Calculator**  
+  A feature-rich calculator supporting basic arithmetic, advanced functions (√, log, sin, cos, tan, ^), and memory operations (MC, M+, MR). Designed with a responsive and visually appealing interface.  
+  **Tech Stack:** HTML, CSS, JavaScript  
+  [View Project](https://sites.google.com/view/madhumitha-b/project-page)
 
----
+- **Stopwatch Application**  
+  A dynamic stopwatch with functionalities like start, pause, reset, lap timer, countdown, dark mode toggle, music playback, and customizable themes.  
+  **Tech Stack:** HTML, CSS, JavaScript  
+  [View Project](https://sites.google.com/view/madhumitha-b/project-page)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhumithaB&show_icons=true&theme=radical" alt="MadhumithaB stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhumithaB&layout=compact&theme=radical" alt="Top languages"/>
-</p>
+- **Tic Tac Toe Game**  
+  An interactive web-based Tic Tac Toe game offering both player vs. player and player vs. AI modes, with adjustable difficulty settings and a dynamic background.  
+  **Tech Stack:** HTML, CSS, JavaScript  
+  [View Project](https://sites.google.com/view/madhumitha-b/project-page)
 
 ---
 
-### 🔗 Let's Connect
+### 👯 I’m Looking to Collaborate On
 
-<p align="left">
-<a href="https://linkedin.com/in/madhumitha-b-a545a525b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:Madhumithab1207@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-</p>
+- **Innovative Frontend Projects**  
+  I'm eager to collaborate on projects that push the boundaries of frontend development, especially those involving interactive UI/UX designs and responsive web applications.
+
+---
+
+### 🤝 I’m Looking for Help With
+
+- **Enhancing AI Integration in Web Applications**  
+  Seeking guidance and collaboration opportunities to integrate AI functionalities into web-based projects to create more dynamic and intelligent user experiences.
+
+---
+
+### 🌱 I’m Currently Learning
+
+- **Frameworks & Technologies:**  
+  - React.js  
+  - Vue.js  
+  - GSAP (GreenSock Animation Platform)
+
+- **Courses & Certifications:**  
+  Continuously updating my skills through online courses and workshops focused on modern frontend development practices.
+
+---
+
+### 💬 Ask Me About
+
+- Frontend Development  
+- Responsive Web Design  
+- JavaScript Animations  
+- UI/UX Best Practices
+
+---
+
+### 📫 How to Reach Me
+
+- **Email:** [example@gmail.com](mailto:example@gmail.com)
+
+---
+
+### 👨‍💻 All of My Projects Are Available At
+
+- [My Portfolio](https://sites.google.com/view/madhumitha-b/project-page)
+
+---
+
+### 📝 I Regularly Write Articles On
+
+- [My Blog](https://sites.google.com/view/madhumitha-b/project-page)  
+  *(Note: Please replace with your actual blog link if different.)*
+
+---
+
+### 📄 Know About My Experiences
+
+- [My Resume](https://sites.google.com/view/madhumitha-b/project-page)  
+  *(Note: Please replace with your actual resume link if different.)*
+
+---
+
+### ⚡ Fun Fact
+
+I believe that a touch of humor can brighten even the most complex code!
+
+---
+

@@ -14,3 +14,6 @@
     </td>
   </tr>
 </table>
+<h2 style="font-family: 'Brush Script MT', cursive; font-size: 2.5rem; color: #4CAF50;">
+  About Me
+</h2>

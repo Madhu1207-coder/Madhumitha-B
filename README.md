@@ -1,13 +1,12 @@
-<div style="max-width: 800px; margin: 40px auto; padding: 30px; background-color: #f0f9f5; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.12); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; display: flex; align-items: center; gap: 30px;">
+<div style="max-width: 800px; margin: 40px auto; padding: 30px; background-color: #f0f9f5; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.12); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-  <!-- Left side container: image + gif side by side -->
-  <div style="display: flex; flex-shrink: 0; gap: 15px; align-items: center;">
+  <!-- Left side: image -->
+  <div style="flex-shrink: 0;">
     <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/PHOTOGRAPHY.jpg" alt="Madhumitha B" width="200" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0 0 15px rgba(76,175,80,0.7);" />
-    <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="coding animation" width="500" style="border-radius: 105px;" />
   </div>
   
-  <!-- Right side: text -->
-  <div style="flex-grow: 1;">
+  <!-- Middle: text -->
+  <div style="flex-grow: 1; padding: 0 20px;">
     <h1 style="margin: 0 0 10px 0; color: #2E7D32; font-size: 2.8rem;">
       Hi 👋, I'm <span style="font-family: 'Brush Script MT', cursive; font-weight: bold;">Madhumitha B</span>
     </h1>
@@ -20,6 +19,11 @@
       🤝 Looking to collaborate on open-source AI & Cybersecurity projects<br/>
       📫 Reach me at <a href="mailto:Madhumithab1207@gmail.com" style="color:#2E7D32; text-decoration: none;">Madhumithab1207@gmail.com</a>
     </p>
+  </div>
+
+  <!-- Right side: GIF -->
+  <div style="flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="coding animation" width="180" style="border-radius: 20px;" />
   </div>
 
 </div>

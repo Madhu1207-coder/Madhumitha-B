@@ -28,7 +28,7 @@
     <td style="padding-left: 20px;">
       <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Full Stack GIF" width="300" style="margin-bottom: 20px; border-radius: 10px;" />
       <br/>
-      <img src="https://webcodeskills.com/wp-content/uploads/2024/01/06_08_gif.gif" alt="Web Dev GIF" width="300" style="border-radius: 10px;" />
+      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/cyber.gif" alt="Web Dev GIF" width="300" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>

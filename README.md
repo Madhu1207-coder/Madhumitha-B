@@ -1,6 +1,6 @@
 # Madhumitha-B
 <p align="center">
-  <img src="https://github.com/Madhu1207-coder/Madhu1207-coder/raw/main/1d2354dd-2894-4480-bf5e-823053543349.jpg" alt="Madhumitha B" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/PHOTOGRAPHY.jpg" alt="Madhumitha B" width="150" style="border-radius: 50%;" />
 </p>
 
 <!-- Banner Image -->

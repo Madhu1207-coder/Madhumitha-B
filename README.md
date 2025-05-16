@@ -1,7 +1,7 @@
 # Madhumitha-B
 
 <!-- Banner Image -->
-![Banner](https://your-image-link.com/banner.jpg)
+![Banner]("C:\Users\boopa\OneDrive\Attachments\Documents\google portfolio\decrypted_encrypted_PHOTO.PNG")
 
 # Hi there 👋, I'm Madhumitha B
 

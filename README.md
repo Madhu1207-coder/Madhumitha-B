@@ -3,7 +3,7 @@
   <!-- Left side container: image + gif side by side -->
   <div style="display: flex; flex-shrink: 0; gap: 15px; align-items: center;">
     <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/PHOTOGRAPHY.jpg" alt="Madhumitha B" width="200" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0 0 15px rgba(76,175,80,0.7);" />
-    <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="coding animation" width="120" style="border-radius: 15px;" />
+    <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="coding animation" width="300" style="border-radius: 55px;" />
   </div>
   
   <!-- Right side: text -->

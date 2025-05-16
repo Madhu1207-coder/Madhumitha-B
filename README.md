@@ -1,3 +1,4 @@
+<!-- Profile section in table layout -->
 <table>
   <tr>
     <td>
@@ -14,6 +15,9 @@
     </td>
   </tr>
 </table>
-<h2 style="font-family: 'Brush Script MT', cursive; font-size: 2.5rem; color: #4CAF50;">
-  About Me
-</h2>
+
+<!-- Scroll-styled About Me image below -->
+<p align="center">
+  <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/AboutMeScroll.png" alt="About Me Scroll" width="500" />
+</p>
+

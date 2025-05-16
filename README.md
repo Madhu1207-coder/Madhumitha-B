@@ -18,18 +18,18 @@
 
 <!-- About Me and GIFs in same row -->
 <table style="margin-top: 30px;">
+</table>
+<table style="margin-top: 30px;">
   <tr>
-    <!-- About Me Scroll Image -->
     <td>
-      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/about%20me%20image.png" alt="About Me Scroll" width="500" style="border-radius: 10px;" />
+      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/about%20me%201.jpg" alt="About Me Scroll" width="500" style="border-radius: 10px;" />
     </td>
-
-    <!-- GIFs next to About Me -->
     <td style="padding-left: 20px;">
-      <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Full Stack GIF" width="300" style="margin-bottom: 20px; border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/Madhu1207-coder/Madhumitha-B/main/frontend.gif" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
       <br/>
-      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/cyber.gif" alt="Web Dev GIF" width="300" style="border-radius: 10px;" />
+      <img src="https://raw.githubusercontent.com/Madhu1207-coder/Madhumitha-B/main/cyber.gif" width="300" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
+
 

@@ -10,7 +10,7 @@
       <p>📍 Chennai, Tamil Nadu, India</p>
       <p>📧 <a href="mailto:Madhumithab1207@gmail.com">Madhumithab1207@gmail.com</a></p>
       <p>🌐 <a href="https://sites.google.com/view/madhumitha-b/project-page" target="_blank">Portfolio</a></p>
-      <p>🔗 <a href="https://www.linkedin.com/in/madhumitha-b-a545a525b/">LinkedIn Profile</a></p>
+      <p>🔗 <a href="https://www.linkedin.com/in/madhumitha-b-a545a525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn Profile</a></p>
     </td>
   </tr>
 </table>

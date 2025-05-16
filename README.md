@@ -22,7 +22,7 @@
 <table style="margin-top: 30px;">
   <tr>
     <td>
-      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/about%20me%20image.png" alt="About Me Scroll" width="500" style="border-radius: 10px;" />
+      <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/about%20me%20.jpg" alt="About Me Scroll" width="500" style="border-radius: 10px;" />
     </td>
     <td style="padding-left: 20px;">
       <img src="https://raw.githubusercontent.com/Madhu1207-coder/Madhumitha-B/main/frontend.gif" width="300" style="border-radius: 10px; margin-bottom: 20px;" />

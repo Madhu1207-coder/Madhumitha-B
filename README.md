@@ -17,7 +17,7 @@
 </table>
 
 <!-- Scroll-styled About Me image below -->
-<p align="center">
-  <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/AboutMeScroll.png" alt="About Me Scroll" width="500" />
+<p align="left">
+  <img src="https://github.com/Madhu1207-coder/Madhumitha-B/blob/main/about%20me%20image.png" alt="About Me Scroll" width="500" />
 </p>
 

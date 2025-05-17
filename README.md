@@ -31,3 +31,36 @@
     </td>
   </tr>
 </table>
+
+## ✨🛠️ <span style="color:#ff5722;">Skills & Technologies</span> ✨
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    </td>
+  </tr>
+</table>

@@ -1,4 +1,5 @@
 <!-- Profile section in table layout -->
+
 <table>
   <tr>
     <td>
@@ -17,6 +18,7 @@
 </table>
 
 <!-- About Me and GIFs in same row -->
+
 <table style="margin-top: 30px;">
 </table>
 <table style="margin-top: 30px;">
@@ -31,8 +33,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ### ✨🛠️ <span style="color:#ff5722;">Skills & Technologies</span> ✨
 
@@ -97,11 +97,7 @@
   </tr>
 </table>
 
-
-
-
 ## 📈 My GitHub Stats & Activity
-
 
 <div align="center">
 
@@ -115,10 +111,5 @@
 
 </div>
 
-## 🏅 Certifications
-
-[![Cybersecurity Fundamentals](https://img.shields.io/badge/Coursera-Cybersecurity-blue?style=flat-square&logo=coursera)](https://coursera.org/verify/your-certificate-link)
-[![Web Development](https://img.shields.io/badge/Udemy-Web--Dev-green?style=flat-square&logo=udemy)](https://udemy.com/certificate/your-link)
-[![Power BI](https://img.shields.io/badge/Simplilearn-PowerBI-yellow?style=flat-square&logo=powerbi)](https://simplilearn.com/verify/your-certificate-link)
 
 
